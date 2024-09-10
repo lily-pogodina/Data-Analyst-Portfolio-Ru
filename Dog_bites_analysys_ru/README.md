@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En/tree/main/Dog_bites_analysys_en"><b>View English version</b></a></p>
+
 ## Исследование данных об укусах собак в Нью-Йорке.
 
 В нашем распоряжении набор данных, содержащий исторические данные за 2015-2022 гг. о зарегистрированных в Нью-Йорке укусах собак.
