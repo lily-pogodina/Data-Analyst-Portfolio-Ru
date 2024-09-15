@@ -1,9 +1,10 @@
-![Untitled-12-02](https://github.com/user-attachments/assets/28558d7e-20fe-437f-9ee1-fc8c1db44744)
+![Untitled-12-03](https://github.com/user-attachments/assets/7e04f0a8-f804-49dd-9a2a-e83fe0dc866a)
 
 <p align="center"><a href="https://github.com/lily-pogodina/Data-A![Uploading Untitled-12-02.png…]()
 nalyst-Portfolio-En"><b>View English version</b></a></p>
 
-# Портфолио аналитика данных
+<h1 align="center">Привет 👋, меня зовут Лиля</h1>
+
 
 В этом репизитории находятся учебные и pet-проекты, демонстрирующие мои навыки в аналитике данных.
 ## Контакты
@@ -70,6 +71,8 @@ nalyst-Portfolio-En"><b>View English version</b></a></p>
 
 
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En"><b>View English version</b></a></p>
+
+<sup>Использована иллюстрация от Freepik</sup>
 
 
 
