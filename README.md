@@ -26,8 +26,8 @@
   <tr>
     <td>1</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/Dog_bites_analysys_ru">Исследование данных об укусах собак в Нью-Йорке</a></td>
-    <td>• Выявили районы города, где проблема с нападениями собак стоит наиболее остро <br>• Проверили гипотезу, что сезонность влияет на число укусов <br>• Определили агрессивные породы</td>
-    <td> <mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>визуализация</mark></td>
+    <td>Анализ исторических данных за 2015-2022 гг. о зарегистрированных в Нью-Йорке укусах собак. Исследование было сделано мной из любви к собакам, Нью-Йорку, а также из любопытства :)</td>
+    <td> <mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark><mark>исследовательский анализ</mark>, <mark>визуализация</mark></td>
   </tr>
 </table>
 
@@ -44,9 +44,9 @@
   </tr>
   <tr>
     <td>1</td>
-    <td>  </td>
-    <td>  </td>
-    <td>  </td>
+    <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/Real_estate_listings_in_st.Petersburg_sudy_ru">Исследование объявлений о продаже квартир в Санкт-Петербурге.</a></td>
+    <td>Анализ данных сервиса Яндекс Недвижимость с целью определения рыночной стоимости объектов недвижимости в Санкт-Петербурге и соседних населённых пунктах. Результаты исследования могут помочь построить автоматизированную систему для отслеживания аномалий и мошеннической деятельности. </td>
+    <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>исследовательский анализ</mark>, <mark>визуализация</mark></td>
   </tr>
 </table>
 
