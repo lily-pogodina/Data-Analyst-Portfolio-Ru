@@ -1,5 +1,4 @@
-
-![1111](https://github.com/user-attachments/assets/c0bcecf6-31f8-4ee3-a063-814b92f5c4cd)
+![Привет, я Лиля](https://github.com/user-attachments/assets/c9c76aa0-e602-4e8d-9816-962a877aa84e)
 
 
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En"><b>View English version</b></a></p>
@@ -47,10 +46,17 @@
     <th>Навыки и инструменты</th>
   </tr>
   <tr>
-    <td>1</td>
+    <td>2</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/Real_estate_listings_in_st.Petersburg_sudy_ru">Исследование объявлений о продаже квартир в Санкт-Петербурге.</a></td>
     <td>Анализ данных сервиса Яндекс Недвижимость с целью определения рыночной стоимости объектов недвижимости в Санкт-Петербурге и соседних населённых пунктах. Результаты исследования могут помочь построить автоматизированную систему для отслеживания аномалий и мошеннической деятельности. </td>
     <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>исследовательский анализ</mark>, <mark>визуализация</mark></td>
+  </tr>
+ 
+   <tr>
+    <td>1</td>
+    <td><a href="">Исследование данных о пользователях сервиса аренды самокатов GoFast и их поездках.</a></td>
+    <td>Анализ информации о пользователях мобильного приложения GoFast. В исследовании мы изучили основные параметры, рассчитали помесячную выручку от каждого пользователя, а также проверили ряд гипотез, которые могут помочь бизнесу вырасти.</td>
+    <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>исследовательский анализ</mark>,<mark>статистический анализ</mark> <mark>визуализация</mark></td>
   </tr>
 </table>
 
