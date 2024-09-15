@@ -1,8 +1,7 @@
-![Привет, я Лиля](https://github.com/user-attachments/assets/c9c76aa0-e602-4e8d-9816-962a877aa84e)
+![Untitled-12-02](https://github.com/user-attachments/assets/28558d7e-20fe-437f-9ee1-fc8c1db44744)
 
-
-<p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En"><b>View English version</b></a></p>
-
+<p align="center"><a href="https://github.com/lily-pogodina/Data-A![Uploading Untitled-12-02.png…]()
+nalyst-Portfolio-En"><b>View English version</b></a></p>
 
 # Портфолио аналитика данных
 
