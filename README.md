@@ -57,11 +57,11 @@
 ## Сертификаты
 
 Сертификаты получены при прохождении различных профильных курсов на образовательных платформах
-* [Специализация Python.](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/Python_specialization.pdf) Платформа Coursera
-* [Cтатистика в Python](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/Liliya-Pogodina--Intermediate-Statistics-in-Python.pdf) Платформа Dataquest
-* [Предобработка данных. Продвинутый курс](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-python-data-cleaning-advanced.pdf) Платформа Dataquest
-* [Python для Data Science. Средний уровень](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-python-for-data-science-intermediate.pdf) Платформа Dataquest
-* [Основы SQL.](https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/liliya-pogodina-sql-fundamentals.pdf) Платформа Dataquest
+* [Специализация Python.](https://github.com/lily-pogodina/Certificates/blob/main/Python_specialization.pdf) Платформа Coursera
+* [Cтатистика в Python](https://github.com/lily-pogodina/Certificates/blob/main/Liliya-Pogodina--Intermediate-Statistics-in-Python.pdf) Платформа Dataquest
+* [Предобработка данных. Продвинутый курс](https://github.com/lily-pogodina/Certificates/blob/main/liliya-pogodina-python-data-cleaning-advanced.pdf) Платформа Dataquest
+* [Python для Data Science. Средний уровень](https://github.com/lily-pogodina/Certificates/blob/main/liliya-pogodina-python-for-data-science-intermediate.pdf) Платформа Dataquest
+* [Основы SQL.](https://github.com/lily-pogodina/Certificates/blob/main/liliya-pogodina-sql-fundamentals.pdf) Платформа Dataquest
 
 
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En"><b>View English version</b></a></p>
