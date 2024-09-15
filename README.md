@@ -1,3 +1,7 @@
+
+![1111](https://github.com/user-attachments/assets/c0bcecf6-31f8-4ee3-a063-814b92f5c4cd)
+
+
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En"><b>View English version</b></a></p>
 
 
