@@ -1,4 +1,4 @@
-![Untitled-12-03](https://github.com/user-attachments/assets/7e04f0a8-f804-49dd-9a2a-e83fe0dc866a)
+![Заголовок для гита-01](https://github.com/user-attachments/assets/a60828d7-42f3-42be-9f1c-88c8af671ded)
 
 <p align="center"><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-En"><b>View English version</b></a></p>
 
