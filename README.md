@@ -27,7 +27,7 @@
     <td>1</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/Dog_bites_analysys_ru">Исследование данных об укусах собак в Нью-Йорке</a></td>
     <td>Анализ исторических данных за 2015-2022 гг. о зарегистрированных в Нью-Йорке укусах собак. Исследование было сделано мной из любви к собакам, Нью-Йорку, а также из любопытства :)</td>
-    <td> <mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark><mark>исследовательский анализ</mark>, <mark>визуализация</mark></td>
+    <td> <mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>исследовательский анализ</mark>, <mark>визуализация</mark></td>
   </tr>
 </table>
 
