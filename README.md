@@ -9,8 +9,8 @@
 * Телефон/WhatsApp — +7 985 062 8837
 * Телеграм — https://t.me/pandapema
 * Почта — liliya.underwater@gmail.com
+* <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/cv_liliya_pogodina_da_ru1.pdf">Резюме в формате PDF</a></td>
 
-**Резюме в формате PDF**
 
 ## Пет-проекты
 
@@ -110,6 +110,7 @@
 ## Сертификаты
 
 Сертификаты получены при прохождении различных профильных курсов на образовательных платформах
+* [Аналитик данных буткемп.](https://github.com/lily-pogodina/Certificates/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82_RU_%D0%9F%D0%BE%D0%B3%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0_2024-8874-004.pdf) Яндекс.Практикум
 * [Специализация Python.](https://github.com/lily-pogodina/Certificates/blob/main/Python_specialization.pdf) Платформа Coursera
 * [Cтатистика в Python](https://github.com/lily-pogodina/Certificates/blob/main/Liliya-Pogodina--Intermediate-Statistics-in-Python.pdf) Платформа Dataquest
 * [Предобработка данных. Продвинутый курс](https://github.com/lily-pogodina/Certificates/blob/main/liliya-pogodina-python-data-cleaning-advanced.pdf) Платформа Dataquest
