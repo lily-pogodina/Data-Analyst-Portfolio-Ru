@@ -83,12 +83,22 @@
    <tr>
     <td>5</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/A_B_testing_%26_hypothesis_prioritizing_for_e-commerce_ru">Приоритизация гипотез и анализ результатов A/B-теста для интернет-магазина.</a></td>
-    <td> Выяснила наиболее перспективную гипотезу, использовав стандартные фреймворки ICE и RICE, проанализировала результаты A/B-теста и приняла решение о продолжении теста или его остановке </td>
+    <td> Выяснила наиболее перспективную гипотезу, использовав стандартные фреймворки ICE и RICE, проанализировала результаты A/B-теста и приняла решение о продолжении теста или его остановке.</td>
     <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>исследовательский анализ</mark>, <mark>статистический анализ</mark>, <mark>A/B-тестирование</mark></td>
   </tr>
 
    <tr>
     <td>6</td>
+    <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/app_performance_analysis_ru">Анализ бизнес показателей развлекательного приложения.</a></td>
+    <td>
+      Выяснила окупаемость рекламы и стоимость привлечений клиентов по категориям. Уточнила убыточные когорты и определила причины убытков, узнала в какие категории вложить рекламный бюджет.
+    </td>
+    <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>исследовательский анализ</mark>, <mark>визуализация</mark></td>
+ </tr>
+
+
+  <tr>
+    <td>7</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/Video_game_sales_study_ru">Анализ данных о продажах компьютерных игр для интернет-магазина.</a></td>
     <td>
      Исследовала исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы.
@@ -98,16 +108,15 @@
 
   </tr>
 
-
-   <tr>
-    <td>7</td>
+  <tr>
+    <td>8</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/Scooter_Rental_Service_ru">Исследование данных о пользователях сервиса аренды самокатов GoFast и их поездках.</a></td>
     <td>Анализ данных о пользователях мобильного приложения GoFast. В исследовании я изучила основные параметры, рассчитала помесячную выручку от каждого пользователя, а также проверила ряд гипотез, которые могут помочь бизнесу вырасти.</td>
     <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>исследовательский анализ</mark>, <mark>статистический анализ</mark>, <mark>визуализация</mark></td>
   </tr>
  
   <tr>
-    <td>8</td>
+    <td>9</td>
     <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/tree/main/Real_estate_listings_in_st.Petersburg_sudy_ru">Исследование объявлений о продаже квартир в Санкт-Петербурге.</a></td>
     <td>Анализ данных сервиса Яндекс Недвижимость с целью определения рыночной стоимости объектов недвижимости в Санкт-Петербурге и соседних населённых пунктах. Результаты исследования могут помочь построить автоматизированную систему для отслеживания аномалий и мошеннической деятельности. </td>
     <td><mark>Python</mark>, <mark>Pandas</mark>, <mark>Seaborn</mark>, <mark>предобработка</mark>, <mark>исследовательский анализ</mark>, <mark>визуализация</mark></td>
