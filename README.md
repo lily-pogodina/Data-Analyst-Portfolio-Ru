@@ -9,7 +9,7 @@
 * Телефон/WhatsApp — +7 985 062 8837
 * Телеграм — https://t.me/pandapema
 * Почта — liliya.underwater@gmail.com
-* <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/cv_liliya_pogodina_da_ru1.pdf">Резюме в формате PDF</a></td>
+* <td><a href="https://github.com/lily-pogodina/Data-Analyst-Portfolio-Ru/blob/main/cv_liliya_pogodina.pdf">Резюме в формате PDF</a></td>
 
 
 ## Пет-проекты
